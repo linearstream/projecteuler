@@ -1,7 +1,7 @@
 AT=@
 CC=gcc
 CFLAGS=-Wall
-EXE=multiples_3_5
+EXE=sum_multiples_less_than_max
 DEPS=$(EXE).h
 OBJ=$(EXE).o
 

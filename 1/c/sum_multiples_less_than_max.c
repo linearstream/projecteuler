@@ -1,4 +1,4 @@
-/* File: multiples_3_5.c
+/* File: sum_multiples_less_than_max.c
  * Author: Joshua Thies
  * Description: Sum the uniq multiples of 3 and 5 less than 100
  */
@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "multiples_3_5.h"
+#include "sum_multiples_less_than_max.h"
 
 #define BASE 10
 #define REQD_ARG_CNT 4
