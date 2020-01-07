@@ -13,3 +13,15 @@ To run:
 Example output:
 
 	The sum of all the unique multiples of 3 and 5 below 1000 is: 233168
+
+## Python Solution
+
+The [Python solution](python/) is a [code golf](https://en.wikipedia.org/wiki/Code_golf) approach that only uses 41 characters (excluding print statement)
+
+To run:
+
+	./run.sh
+
+Example output:
+
+	233168
